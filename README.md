@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a doer of things, always looking for new technology to learn. [Gophers](https://golang.org/) unite!
+
+Active contributor to [Vela](https://github.com/go-vela) which is an open source continuous integration (CI) tool built around container technology.
+
 <!--
 **kneal/kneal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
