@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Neal, I'm a passionate developer always looking for a challenge. My pronouns are he/him and a fun fact about me is I'm a LaCroix addict, it's normal for me to have 3-4 in a single day. I have two corgis (Winston & Coral) and love to cook in my spare time. 
+
 I'm a doer of things, always looking for new technology to learn. [Gophers](https://golang.org/) unite!
 
 Active contributor to [Vela](https://github.com/go-vela) which is an open source continuous integration (CI) tool built around container technology.
